@@ -7,6 +7,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
 numpy==1.19.1
+opencv-python==4.3.0.38
 pytz==2020.1
 sqlparse==0.3.1
 Werkzeug==1.0.1
